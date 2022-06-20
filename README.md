@@ -1,6 +1,7 @@
 [![MasterHead](https://cdn.pixabay.com/photo/2018/10/21/10/07/technology-3762546_960_720.jpg)]
 <h1 align="center">Hi 👋, I'm Nikhilesh Kumar Dubey</h1>
 <h3 align="center">Python || Java- Selenium || Full Stack</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilesh9446&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilesh9446" /> </p>
 
