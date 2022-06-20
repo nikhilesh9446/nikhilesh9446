@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+[![MasterHead](https://cdn.pixabay.com/photo/2018/10/21/10/07/technology-3762546_960_720.jpg)]
 <h1 align="center">Hi 👋, I'm Nikhilesh Kumar Dubey</h1>
 <h3 align="center">Python || Java- Selenium || Full Stack</h3>
 
