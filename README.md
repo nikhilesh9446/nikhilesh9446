@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilesh9446&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilesh9446" /> </p>
 
-- 🔭 I’m currently working on **Airline Reservation System**
+- 🔭 I’m currently working at **QualiZeal LLP**
 
 - 🌱 I’m currently learning **Java- Selenium**
 
