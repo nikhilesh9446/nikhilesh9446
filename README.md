@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/er_nikhilesh9936" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="er_nikhilesh9936" height="30" width="40" /></a>
+<a href="https://twitter.com/er_nikhilesh99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="er_nikhilesh9936" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/nikhilesh-kumar-dubey-6450a2138/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/nikhilesh-kumar-dubey-6450a2138/" height="30" width="40" /></a>
 <a href="https://instagram.com/its_nikhileshdubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_nikhileshdubey" height="30" width="40" /></a>
 </p>
